@@ -1,0 +1,78 @@
+
+
+
+
+/* .main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.input-label{
+    display: flex;
+    flex-direction: column;
+    margin:2px;
+}
+.input-contianer{
+    height:20px;
+}
+.name-container{
+    display: flex;
+    flex-direction: row;
+}
+.checkbox-label{
+    display: flex;
+    flex-direction: row;
+    margin:4px;
+}
+.button{
+    height:40px;
+    width:120px;
+    color:white;
+    background-color: skyblue;
+    border:0px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-left: 10px;
+}
+.heading{
+    font-family: 'Roboto';
+    font-size: 25px;
+}
+
+.firstName-lastName-label{
+    display: flex;
+    flex-direction: row;
+}
+.error-msg{
+    color:red;
+    font-size: 16px;
+    font-weight: bold;
+}
+.error-align{
+    display: flex;
+    flex-direction: column;
+}
+.date-label{
+   
+    margin-top:19px;
+    margin-bottom:20px;
+}
+
+.all-inputs-container{
+ background-color: gray;
+    height:600px;
+    width: 600px;
+    border:2px;
+    border-color: gray;
+    border-style: solid;
+margin-top:40px;
+}
+.input-element{
+    font-weight: 600;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+
+ */
